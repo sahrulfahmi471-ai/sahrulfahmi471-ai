@@ -17,7 +17,6 @@ Instagram: @rulieth
 facebook: @Arrul
 GitHub: sahrulfahmi471-ai
 
-![Screenshot](images/preview.png)
 
 
 
